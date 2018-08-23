@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1534988214 source:c:\code\cpp-stl\forword_list\main.cpp
+	<iostream>
+	<forward_list>
+
